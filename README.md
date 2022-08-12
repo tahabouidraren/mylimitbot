@@ -1,6 +1,7 @@
 # mylimitbot
 mylimitbot is a bot capable of placing limit orders in your favourite crypto platform only using your API key's!
-- Requirment:
+
+- Requirement:
 
 You need to have Python installed
 and also :
