@@ -1,7 +1,7 @@
 import ccxt
 
 print("******************************************")
-print("All copyrights belong to @ts._.taha in IG")
+print("All copyrights belong to @tahabouidraren in IG")
 print("******************************************")
 print()
 first_name = input("Kindly input your first name: ")
@@ -75,6 +75,6 @@ elif platform.upper() == 'PHEMEX':
         exit()
 print()
 print("******************************************")
-print("All copyrights belong to @ts._.taha in IG")
+print("All copyrights belong to @tahabouidraren in IG")
 print("******************************************")
 print()
